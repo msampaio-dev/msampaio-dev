@@ -1,6 +1,6 @@
 # Marcelo Sampaio
 
-Sou desenvolvedor backend Java e estudo Engenharia de Software na Uninter. Procuro minha primeira vaga em backend ou full stack.
+Sou desenvolvedor backend Java e estudo Engenharia de Software. Procuro minha primeira vaga em backend ou full stack.
 
 Trabalho principalmente com Java e Spring Boot, e uso React com TypeScript quando o projeto precisa de uma interface. Gosto de sistemas com regras que não podem falhar. No meu projeto principal, dois clientes nunca conseguem reservar o mesmo horário, nem clicando no mesmo instante.
 
